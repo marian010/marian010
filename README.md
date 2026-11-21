@@ -1,50 +1,75 @@
-<h1 align="center">Hi 👋, I'm Adrian</h1>
-
-<br>
-
-<p><img align="right" src="https://github.com/marian010/marian010/blob/main/animation_500_kxa883sd.gif" alt="gif" /></p>
-
-- 👨‍💻 I'm some sort of a full-stack developer? If [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) description makes me a full-stack developer.
-
-- ⚡ I'm currently involved in several projects, some of which I lead. See below.
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://laravel.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
-    </a>
-    <a href="https://php.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" alt="php" width="40" height="40" />
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-    </a>
+ <h1 align="center">Hi 👋, I'm Adrian</h1>
+<p align="center">
+  <i>Full-stack Developer - Entrepreneur - AI & Product Builder</i>
 </p>
+
+<p align="center">
+  I build software, develop digital products, integrate AI, and turn complex ideas into practical solutions.
+</p>
+
 <br>
 
-<h3 align="left">Projects:</h3>
+<img align="right" src="animation_500_kxa883sd.gif" alt="coding animation" width="320" />
 
-* Founder @ <a href="https://blocuriromania.ro">blocuriromania.ro</a>
+### 🙋‍♂️ About me
+
+- 👨‍💻 Full-stack developer passionate about building useful and scalable software.
+- 🚀 Building and growing my own digital products, platforms, and SaaS businesses.
+- 🤖 Integrating AI into applications, workflows, and business processes.
+- ⚡ Developing intelligent automations and connecting AI with real-world business systems.
+- 🧠 Interested in software architecture, AI-powered solutions, APIs, and product development.
+- 💡 Passionate about solving complex problems through technology, automation, and AI.
+- 🛠️ Working across the entire development lifecycle - from idea and architecture to deployment and maintenance.
+
+### 🚀 Projects & Ventures
+
+| Project | Role | What it is |
+|---|---|---|
+| [PERFIT](https://perfit.ro) | Co-Founder | SaaS platform for personal trainers and fitness businesses. |
+| [Invizita](https://invizita.ro) | Co-Founder | Travel and hospitality platform connecting travelers with local experiences and accommodation. |
+| [BlocuriRomania](https://blocuriromania.ro) | Founder | Digital platform focused on residential buildings and real estate information. |
+| [SPV Evolved](https://neuratech.ro/spv/) | Founder | Browser extension improving the Romanian ANAF SPV experience. |
+
+### 💻 Technologies & Tools
+
+These are some of the technologies I've worked with, not a limitation of what I can build. I'm always open to exploring new languages, frameworks, tools, and technologies depending on the project.
+
+**Languages & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,nodejs,python" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+**Frameworks, Databases & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,redis,docker,git,linux,aws" />
+</p>
+
+**AI & Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Applications-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Workflow_Automation-0A7E8C?style=for-the-badge" />
+</p>
+
+### 📫 Let's connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adrianduma">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adrian@neuratech.ro">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://neuratech.ro">
+    <img src="https://img.shields.io/badge/NEURATECH-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</p>
