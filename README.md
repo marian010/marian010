@@ -25,7 +25,7 @@
 
 | Project | Role | What it is |
 |---|---|---|
-| [PERFIT](https://perfit.ro) | Co-Founder | SaaS platform for personal trainers and fitness businesses. |
+| [PERFIT](https://perfit.ro) | Founder | SaaS platform for personal trainers and fitness businesses. |
 | [Invizita](https://invizita.ro) | Co-Founder | Travel and hospitality platform connecting travelers with local experiences and accommodation. |
 | [BlocuriRomania](https://blocuriromania.ro) | Founder | Digital platform focused on residential buildings and real estate information. |
 | [SPV Evolved](https://neuratech.ro/spv/) | Founder | Browser extension improving the Romanian ANAF SPV experience. |
